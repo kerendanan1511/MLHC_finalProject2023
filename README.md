@@ -11,10 +11,10 @@ This repository contains multiple files:
 
 3- Data directory: contains the raw data. 
 
-4- Data Analysis directory: contains data exploratory plots about the distribution of the data, KM survival analysis of the clinial data only and missing rates plots.
+4- Data Analysis directory: contains data exploratory plots about the distribution of the data
 
 5- Evaluation directory: contains basic metric plots of the mortality prediction models, SHAP values of RF model. 
 
-6- Feature Selection directory: contains Cox proportional hazards regression survival analysis divided to clinical features results and Olink features results
+6- Survival Analysis directory: contains Cox proportional hazards regression survival analysis divided to clinical features results and Olink features results and KM survival analysis of the clinial data only and missing rates plots.
 
 7- Endotypes Classification directory: contains plots representing the second classification model
