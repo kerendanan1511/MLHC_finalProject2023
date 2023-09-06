@@ -18,3 +18,6 @@ This repository contains multiple files:
 6- Feature Selection for Classification directory: contains Cox proportional hazards regression survival analysis divided to clinical features results and Olink features results 
 
 7- Endotypes directory: contains plots regarding the second classification model
+
+
+For further information you can contact us by mail: galbodek@mail.tau.ac.il, kerendanan1@mail.tau.ac.il
