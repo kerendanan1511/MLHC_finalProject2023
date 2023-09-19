@@ -17,6 +17,10 @@ This repository contains multiple files:
 
 6- **Endotypes** directory: This directory contains plots regarding the second classification model
 
-7- **requirements.txt**: specifying required libraries
+7- **requirements.txt**: Specifying required libraries
+
+8- **Paper Figures**: Containing all the figures included in the paper
+
+9- **Paper**: A PDF containing the paper of this work
 
 For further information you can contact us by mail: galbodek@mail.tau.ac.il, kerendanan1@mail.tau.ac.il
