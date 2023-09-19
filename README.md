@@ -19,8 +19,8 @@ This repository contains multiple files:
 
 7- **requirements.txt**: Specifying required libraries
 
-8- **Paper Figures**: Containing all the figures included in the paper
+8- **Paper Figures**: A folder containing all the figures included in the paper
 
-9- **Paper**: A PDF containing the paper of this work
+9- **MLHC_Final_Project_Paper.pdf**: A PDF containing the paper of this work
 
 For further information you can contact us by mail: galbodek@mail.tau.ac.il, kerendanan1@mail.tau.ac.il
